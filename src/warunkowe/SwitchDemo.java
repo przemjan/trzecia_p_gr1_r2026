@@ -16,6 +16,7 @@ public class SwitchDemo {
         switch (litera) {
             case 'a':
                 System.out.println("Styczeń");
+                break;
                 //fallthrough
             case 'b':
                 System.out.println("Luty");
