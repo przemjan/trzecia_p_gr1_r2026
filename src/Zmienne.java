@@ -24,6 +24,6 @@ public class Zmienne {
         System.out.print("Mój napis: " + napis);
 
         boolean sun = true; //false
-
+     // https://github.com/przemjan/trzecia_p_gr1_r2026.git
     }
 }
