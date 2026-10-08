@@ -29,6 +29,8 @@ public class SwitchDemo {
                 break;
         }
         System.out.println("Za chwilę dalszy ciąg programu...");
+        // Podstawowa składnia i struktury wybranych języków programowanie.
+        // Proste algorytmy.
     }
 
 }
